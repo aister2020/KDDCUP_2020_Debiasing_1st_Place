@@ -2,8 +2,8 @@
 ### Team: aister
 ***
 + Members: Jianqiang Huang, Ke Hu, Mingjian Chen, Bohang Zheng, Xingyuan Tang, Tan Qu, Yi Qi, Jun Lei
-+ Team Introduction: Most of our members come from the Search Advertising Algorithm Team of the Meituan Dianping Advertising Platform Department. There are five competitions in KDD CUP 2020. We participate in the Debiasing, AutoGraph and Multimodalities Recall among the five competitions. In the end, We win the first place in Debiasing(1/1895), and the first place in AutoGraph(1/149), as well as the third place in Multimodalities Recall(3/1433).
-+ Based on the business scenario of Meituan and Dianping App, the search advertising algorithm team of Meituan Dianping has carried out a lot of innovation and algorithm optimization in the field of cutting-edge technology and conducted a lot of algorithm research and application in the fileds of Debiasing, Graph Learning and Multimodalities.
++ Team Introduction: Most of our members come from the Search Ads Algorithm Team of the Meituan Dianping Advertising Platform Department. We participated in three of the five competitions held by KDD CUP 2020 and achieved promising results. We won first place in Debiasing(1/1895), first place in AutoGraph(1/149), and third place in Multimodalities Recall(3/1433).
++ Based on the business scenario of Meituan and Dianping App, the Search Ads Algorithm Team of Meituan Dianping has rich expertise in innovation and algorithm optimization in the field of cutting-edge technology, including but not limited to, conducting algorithm research and application in the fileds of Debiasing, Graph Learning and Multimodalities.
 + If you are interested in our team or would like to communicate with our team(b.t.w., we are hiring), you can email to huangjianqiang@meituan.com.
 
 ### Introduction
